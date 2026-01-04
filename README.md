@@ -12,7 +12,7 @@
 
 MENTOR**:NEELA SANTHOSH
 
-### **Task Description: Decision Tree Implementation**
+*Task Description: Decision Tree Implementation**
 
 The objective of this task is to implement a **Decision Tree algorithm** using the **scikit-learn** library in Python to perform a **classification task**. A Decision Tree is a supervised machine learning technique that represents decisions and their possible outcomes in a tree-like structure, making it easy to understand and interpret.
 
@@ -24,7 +24,6 @@ After training, the model is used to **predict class labels** for the test datas
 
 This task demonstrates the complete workflow of a Decision Tree algorithm, including data preparation, model training, prediction, and evaluation. It highlights how Decision Trees can be effectively applied to classification problems and how scikit-learn simplifies machine learning implementation in Python.
 
----
 
-✅ *Word count: Well below 500 words*
+
 
